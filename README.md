@@ -7,6 +7,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Magic
   - 
  - hjhjh
+-edited text
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
